@@ -1,0 +1,6 @@
+进入项目目录依次执行
+1.npm install
+2.webpack
+3.gulp
+4. 以后修改了js文件，得先执行webpack,再执行gulp
+5. 浏览地址  http://localhost:3009/app/index.html#/home
